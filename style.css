@@ -114,6 +114,15 @@ canvas {
   height: 46px;
   border-radius: 50%;
 }
+.watermark-footer {
+  margin-top: 40px;
+  padding: 20px;
+  text-align: center;
+  font-size: 15px;
+  color: #555;
+  opacity: 0.7;
+  font-family: 'Poppins', sans-serif;
+}
 
 /* CARD IMT */
 .card-yellow { 
